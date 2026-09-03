@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 
 # ==========================================
@@ -570,4 +569,4 @@ elif st.session_state.step == 6:
         st.session_state.situation = None
 
         st.rerun()
-```
+
